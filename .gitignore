@@ -1,0 +1,4 @@
+**pycache**/
+*.pyc
+arasaka_employees.csv
+arasaka_employees_final.csv
