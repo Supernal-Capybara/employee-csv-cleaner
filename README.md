@@ -21,3 +21,9 @@ This is a Python tool that:
 This project was built as a practical internal-tool style Python script similar to the kinds of small automation and reporting utilities used in offices, hospitals, schools, and business IT departments.
 
 
+# Notes
+Main file: `CSV Clean Up and Reporting Tool.py`
+Helper file: `generate_test_data_for_csv_tool.py`
+
+This project includes an optional helper file that helps to generate test CSV data.  
+Both files should be kept in the same folder when running the program.
