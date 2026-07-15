@@ -22,8 +22,17 @@ This project was built as a practical internal-tool style Python script similar 
 
 
 # Notes
-Main file: `CSV Clean Up and Reporting Tool.py`
+Main file: `csv_cleanup_report.py`
 Helper file: `generate_test_data_for_csv_tool.py`
+Test file: `test_csv_cleanup_report.py`
 
-This project includes an optional helper file that helps to generate test CSV data.  
-Both files should be kept in the same folder when running the program.
+This project also includes an optional helper file that helps to generate test CSV data as well as a test file.  
+All three files should be kept in the same folder when running the program.
+
+
+# Testing
+Install dependencies and run the test file `test_csv_cleanup_report.py`
+
+* In PowerShell:
+  * py -m pip install pytest
+  * py -m pytest
