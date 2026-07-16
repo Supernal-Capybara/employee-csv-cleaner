@@ -31,8 +31,6 @@ All three files should be kept in the same folder when running the program.
 
 
 # Testing
-Install dependencies and run the test file `test_csv_cleanup_report.py`
-
+Install dependencies from `requirements.txt`and run the test file:
 * In PowerShell:
-  * py -m pip install pytest
   * py -m pytest
